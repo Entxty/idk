@@ -1,4 +1,4 @@
-# idk
+# CON X
 Patch note 20
 unpatched inject
 new scripts added.
